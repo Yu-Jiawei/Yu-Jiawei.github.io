@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>使用GitHub+PicGo+jsDelivr搭建免费CDN加速图床</title>
+    <link href="/2021/12/07/test-article/"/>
+    <url>/2021/12/07/test-article/</url>
+    
+    <content type="html"><![CDATA[<p>在搭建个人博客过程中，需要使用到很多图片，所以想创建一个免费的图床以求方便</p><h2 id="下载PicGo"><a href="#下载PicGo" class="headerlink" title="下载PicGo"></a>下载PicGo</h2><h2 id="创建GitHUb仓库"><a href="#创建GitHUb仓库" class="headerlink" title="创建GitHUb仓库"></a>创建GitHUb仓库</h2><h2 id="配置PicGo"><a href="#配置PicGo" class="headerlink" title="配置PicGo"></a>配置PicGo</h2><h2 id="上传图片并使用"><a href="#上传图片并使用" class="headerlink" title="上传图片并使用"></a>上传图片并使用</h2><p>有待完成</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>图床</tag>
+      
+      <tag>GitHub</tag>
+      
+      <tag>PicGo</tag>
+      
+      <tag>jsDelivr</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2021/12/06/hello-world/"/>
     <url>/2021/12/06/hello-world/</url>
